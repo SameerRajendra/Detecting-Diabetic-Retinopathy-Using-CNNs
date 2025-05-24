@@ -1,0 +1,10 @@
+
+    Python 3.8+
+    PyTorch
+    CuPy
+    timm
+    OpenCV
+    scikit-learn
+    pandas
+    albumentations (optional)
+    matplotlib (optional)
