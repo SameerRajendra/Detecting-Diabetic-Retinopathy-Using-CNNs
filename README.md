@@ -28,8 +28,8 @@ pip install -r requirements.txt
 Dataset linl- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 ```
 train/
-  ├── 000c1434d8d7.png
-  ├── 001639a390f0.png
+  ├──1_left.jpeg.png
+  ├──5_left.jpeg.png
   └── ...
 test/
   └── <test images>
