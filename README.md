@@ -45,8 +45,8 @@ Open `DR_Classification.ipynb` and execute cells sequentially.
 
 - **Architecture**: EfficientNet-B4
 - **Input Size**: 380×380
-- **Loss Function**: Focal Loss with class weighting
-- **Regularization**: Dropout (0.4)
+- **Loss Function**: class weighting
+- **Regularization**: Dropout (0.3)
 - **Optimizer**: Adam
 - **Metrics**: Accuracy, F1-score, Confusion Matrix
 
