@@ -5,7 +5,7 @@ This project builds a deep learning model to classify Diabetic Retinopathy (DR) 
 ## 📁 Repository Contents
 
 ```
-├── DR_Classification.ipynb     # Main notebook (training + evaluation)
+├──Detecting Diabetic Retinopathy Using EfficientNet-B4.ipynb     # Main notebook (training + evaluation)
 ├── dataset_utils.py            # CuPy-powered dataset loader
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project overview (this file)
