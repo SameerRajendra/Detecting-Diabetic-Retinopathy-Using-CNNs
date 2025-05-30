@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 3. **Dataset Structure:**
-Dataset linl- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+Dataset link- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 ```
 train/
   ├──1_left.jpeg.png
